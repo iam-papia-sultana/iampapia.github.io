@@ -230,6 +230,12 @@ div {
 	 	padding-right: 15px;
 	 	padding-left: 15px;
 	 }
+.about-title-underline{
+	width: 50px;
+	height: 3px;
+	background-color:#fff ;
+	margin: 0 auto 30px auto;
+}
 #about-des p {
 	color: #fff;
 	margin-bottom: 30px;
